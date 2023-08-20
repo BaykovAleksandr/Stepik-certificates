@@ -1,3 +1,3 @@
-# Stepic-sertificates
-Сертификаты за пройденные мною курсы на платформе stepic.org
+# Stepik-sertificates
+Сертификаты за пройденные мною курсы на платформе stepik.org
 ![68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64333736312d333036322d343633352d613633362d3636363336333634333433322f73746570696b2d73686172652d72752e706e67](https://github.com/BaykovAleksandr/Stepic-sertificates/assets/132807082/5b425b3d-7d19-41db-a3ce-10db8f0d99b9)
